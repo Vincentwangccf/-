@@ -1,0 +1,1 @@
+"#{vo.quoteItem.usedFlag? 'Yes':((vo.quoteItem.usedFlag==false)? 'No': 'All')}"   复杂的嵌套的三元运算符
